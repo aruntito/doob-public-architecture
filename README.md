@@ -2,19 +2,15 @@
 
 # DOOB Public Architecture
 
-Distributed infrastructure architecture, orchestration systems, operational intelligence, and execution coordination research behind DOOB.
+Infrastructure research focused on distributed orchestration, operational intelligence, execution coordination, and scalable systems architecture.
 
-<p>
-  <img src="https://img.shields.io/badge/Distributed-Systems-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Execution-Orchestration-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operational-Intelligence-1e293b?style=for-the-badge" />
-</p>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Infrastructure-Research-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Replay-Safe-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Observability-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Provider-Routing-black?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/distributed%20systems-111111?style=flat&labelColor=111111&color=111111" />
+  <img src="https://img.shields.io/badge/execution%20orchestration-111111?style=flat&labelColor=111111&color=111111" />
+  <img src="https://img.shields.io/badge/operational%20intelligence-111111?style=flat&labelColor=111111&color=111111" />
+  <img src="https://img.shields.io/badge/infrastructure%20research-111111?style=flat&labelColor=111111&color=111111" />
 </p>
 
 </div>
