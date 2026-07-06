@@ -1,9 +1,9 @@
-# Contributing
+# Contributing to DOOB
 
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes with clear messages.
-4. Submit a Pull Request.
+DOOB focuses on distributed orchestration and product architecture.
 
-Ensure your code adheres to existing style guidelines.
+## Engineering Workflow
+1. Architecture comes first. Discuss major changes in Issues before implementing.
+2. Follow replay-safe execution principles.
+3. Commit with Conventional Commits.
+4. Ensure PRs include tests (if code) or diagrams (if architecture).
